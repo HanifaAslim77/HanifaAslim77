@@ -1,11 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hanifa+Aslim;Cybersecurity+Undergraduate;SOC+%26+Blue+Team+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2200&pause=900&color=22C55E&center=true&vCenter=true&width=850&lines=%24+whoami;Hanifa+Aslim;%24+current_role;Cybersecurity+Undergraduate;%24+focus_area;SOC+%26+Blue+Team+Operations" />
 </h1>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1200&color=94A3B8&center=true&vCenter=true&width=700&lines=Threat+Monitoring;Incident+Response;Security+Operations+(SOC)" />
-</h3>
-
 
 ---
 
