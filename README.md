@@ -1,85 +1,94 @@
-## Hi there 👋
-[My 3D Architecture](http://hanifaaslim.infinityfree.me/)
+<!-- ===============================
+     3D CYBERSECURITY SVG HEADER
+     =============================== -->
+<p align="center">
+  <svg width="100%" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#0f172a"/>
+        <stop offset="50%" stop-color="#0ea5e9"/>
+        <stop offset="100%" stop-color="#22c55e"/>
+      </linearGradient>
 
-## Cybersecurity Student | Aspiring SOC Analyst
+      <filter id="shadow">
+        <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000" flood-opacity="0.4"/>
+      </filter>
+    </defs>
 
-I am a cybersecurity student with a strong focus on defensive security operations (Blue Team). I am currently building my skills in security monitoring, incident response, and threat detection, with the goal of joining a Security Operations Center (SOC) as an analyst.
+    <rect width="1200" height="180" rx="20" fill="url(#grad)"/>
 
----
+    <!-- Floating network nodes -->
+    <circle cx="200" cy="90" r="6" fill="#ffffff" opacity="0.6"/>
+    <circle cx="400" cy="50" r="5" fill="#ffffff" opacity="0.4"/>
+    <circle cx="700" cy="120" r="7" fill="#ffffff" opacity="0.5"/>
+    <circle cx="950" cy="70" r="6" fill="#ffffff" opacity="0.4"/>
 
-### Skills & Competencies
+    <!-- Lines -->
+    <line x1="200" y1="90" x2="400" y2="50" stroke="#ffffff" opacity="0.2"/>
+    <line x1="400" y1="50" x2="700" y2="120" stroke="#ffffff" opacity="0.2"/>
+    <line x1="700" y1="120" x2="950" y2="70" stroke="#ffffff" opacity="0.2"/>
 
-**Security Operations (SOC)**
-*   Security Monitoring & Alert Triage
-*   Incident Response Fundamentals
-*   Log Analysis & Correlation
+    <!-- Title -->
+    <text x="600" y="95" text-anchor="middle"
+          font-size="38" font-family="Segoe UI, Arial, sans-serif"
+          fill="#ffffff" filter="url(#shadow)">
+      Aslim — Cybersecurity Portfolio
+    </text>
 
-**Networking & Infrastructure**
-*   TCP/IP, DNS, HTTP/HTTPS Protocols
-*   Firewall & IDS/IPS Concepts
-*   Linux (CLI, Permissions) & Windows (Event Logs, Registry) Administration
-
-**Vulnerability Assessment**
-*   Vulnerability Identification & Categorization
-*   OWASP Top 10 Awareness
-
----
-
-### Technical Toolkit
-
-**Security Information & Event Management (SIEM)**
-*   **Splunk**: Basic search, dashboarding, and alert creation.
-*   **ELK Stack (Elasticsearch, Logstash, Kibana)**: Log ingestion and visualization.
-
-**Network Analysis & Reconnaissance**
-*   **Wireshark**: Packet capture analysis and traffic inspection.
-*   **Nmap**: Network discovery and security auditing.
-
-**Application Security**
-*   **Burp Suite (Community)**: Basic web vulnerability scanning and request manipulation.
-
-**General**
-*   **Git & GitHub**: Version control and documentation.
-
----
-
-### Projects & Labs
-
-**Home Lab SOC Environment**
-*   Deployed a virtualized environment to simulate network security events.
-*   Configured ingestion of logs into a SIEM solution.
-*   Practiced identifying malicious activity signatures.
-
-**Network Traffic Analysis**
-*   Analyzed PCAP files to identify unauthorized access attempts.
-*   Documented findings and reconstructed attack timelines.
+    <text x="600" y="130" text-anchor="middle"
+          font-size="16" font-family="Segoe UI, Arial, sans-serif"
+          fill="#e5e7eb">
+      SOC • Blue Team • Security Operations
+    </text>
+  </svg>
+</p>
 
 ---
 
-### Areas of Interest
-
-*   **Blue Team Operations**: Threat detection and defense.
-*   **Incident Response**: Investigation and remediation workflows.
-*   **Cloud Security**: Fundamentals of AWS/Azure security (Currently Learning).
+## 👋 About Me
+I am a **Cybersecurity student and SOC intern** with a strong interest in **Security Operations, Blue Team activities, and incident monitoring**.  
+I am focused on building a solid foundation in **SOC workflows, log analysis, and defensive security practices**.
 
 ---
 
-### Contact
+## 🛡️ Skills & Knowledge
+- SOC fundamentals: monitoring, alert triage, escalation  
+- SIEM basics: log analysis, correlation concepts  
+- Networking fundamentals: TCP/IP, DNS, HTTP, firewalls  
+- Linux & Windows system basics  
+- Vulnerability assessment fundamentals  
 
-*   **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com)
-*   **Email**: [youremail@example.com](mailto:youremail@example.com)
+---
 
-<!--
-**HanifaAslim77/HanifaAslim77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧰 Tools (Beginner / Academic Level)
+- Splunk / ELK Stack (basic)  
+- Wireshark  
+- Nmap  
+- Burp Suite  
+- Git & GitHub  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Projects & Labs
+- Log Analysis & Alert Review Lab  
+- Access Attempt Monitoring Project  
+- Basic SOC Workflow Simulation  
+- Academic cybersecurity mini-projects  
+
+---
+
+## 🎯 Interests
+- Blue Team Operations  
+- Incident Response  
+- Threat Monitoring  
+- Cloud & Application Security (learning phase)  
+
+---
+
+## 📫 Contact
+- **LinkedIn:** https://linkedin.com/in/your-profile  
+- **Email:** yourname@email.com  
+
+---
+
+> ⚠️ This profile reflects my **current learning level** and is focused on **internship and fresher opportunities**. I believe in honest skill representation and continuous improvement.
