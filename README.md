@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![My 3D Architecture](http://hanifaaslim.infinityfree.me/)
+[My 3D Architecture](http://hanifaaslim.infinityfree.me/)
 
 ## Cybersecurity Student | Aspiring SOC Analyst
 
