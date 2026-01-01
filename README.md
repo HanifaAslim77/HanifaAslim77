@@ -1,6 +1,5 @@
 ## Hi there 👋
-[![My 3D Architecture](https://github.com/YourUsername/YourRepo/raw/main/demo.gif)](https://your-portfolio-url.com)
-> *Interactive 3D Cybersecurity Portfolio (React + Three.js)*
+[![My 3D Architecture](http://hanifaaslim.infinityfree.me/))
 
 ## Cybersecurity Student | Aspiring SOC Analyst
 
